@@ -1,2 +1,2 @@
-# Project-4
-Parallax Website
+# Parallax Website
+Created a Parallax Website
